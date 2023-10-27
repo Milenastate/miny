@@ -6,7 +6,7 @@
 
 To create the project we use:
 
-+ source code edit : VS code
++ Source code edit : VS code
 + Node.js : version: v18.18.1
 + Expo CLI Local
 + For more information see:https://docs.expo.dev/get-started/installation/
