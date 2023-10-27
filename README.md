@@ -19,7 +19,7 @@ A component that provides access to the system UI for a slider control, that all
 + Clipboard: npx expo install expo-clipboard
 expo-clipboard provides an interface for getting and setting Clipboard content on Android, iOS, and Web.
 
-+ Asyync Storage: npx expo install @react-native-async-storage/async-storage
++ Async Storage: npx expo install @react-native-async-storage/async-storage
 is a React Native API used to store persistent data on the device. It is a way to save data in key and value format. Data saved with the AsyncStorage API is asynchronous, therefore it returns a Promise, and in case of an error it returns an Error. 
 
 + React Navigation: npm install @react-navigation/native.
